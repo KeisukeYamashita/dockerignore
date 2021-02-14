@@ -1,3 +1,10 @@
+# The .dockerignore file excludes files from the container server process.
+# 
+# Mainly derived from yizeng/.dockerignore
+# https://gist.github.com/yizeng/eeeb48d6823801061791cc5581f7e1fc
+#
+# https://docs.docker.com/engine/reference/builder/#dockerignore-file
+
 .git
 .gitignore
 

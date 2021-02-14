@@ -1,4 +1,5 @@
-# The .dockerignore file excludes files from the container build process.
+# The .dockerignore file excludes files from the container server process.
+# 
 # Mainly derived from GoogleCloudPlatform/google-samples
 # https://github.com/GoogleCloudPlatform/golang-samples/blob/master/run/helloworld/.dockerignore
 #
