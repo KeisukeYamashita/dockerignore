@@ -1,6 +1,6 @@
 # A collection of `.dockerignore` templates
 
-**Note: This repo is a fork of [github/gitignore][gitignore]
+**Note: This repo is a fork of [github/gitignore][gitignore] and trasformed into a dockerignore version**
 
 [gitignore]: https://github.com/github/gitignore
 
@@ -14,6 +14,14 @@ the following resources are a great place to start:
 - The [.dockerignore][dockerignore] of the Dcokerfile references.
 
 [dockerignore]: https://docs.docker.com/engine/reference/builder/#dockerignore-file
+
+## How to install
+
+You can use the [KeisukeYamashita/dobo](https://github.com/KeisukeYamashita/dobo) to pull the dockerignore templates to your local environment.
+
+```console
+$ dobo dump Node > .dockerignore
+```
 
 ## Folder structure
 
