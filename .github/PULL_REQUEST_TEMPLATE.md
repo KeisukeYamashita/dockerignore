@@ -1,12 +1,7 @@
-**Reasons for making this change:**
+## Why
 
-_TODO_
+<!-- Write why to add this -->
 
-**Links to documentation supporting these rule changes:**
+## Link to the documentation
 
-_TODO_
-
-If this is a new template:
-
- - **Link to application or project’s homepage**: _TODO_
- 
+<!-- Links to documentation supporting these rule changes -->
